@@ -1,0 +1,146 @@
+/*
+https://api.twitter.com/2/timeline/profile/149991703.json
+globalObjects/tweets/1274503490556047361
+alferdez (149991703) timeline tweet
+*/
+{
+    "created_at": "Sun Jun 21 00:44:45 +0000 2020",
+    "id_str": "1274503490556047361",
+    "full_text": "Cuando me preguntan cómo estoy y si pienso aflojar, miro este video del padre de la democracia y reafirmo mis convicciones. Por los que sufren, por los que esperan, por la gente que confía en nosotros y por la salud de la República seguiremos marchando. Juntos. Siempre. https://t.co/HLF3BfGwac",
+    "display_text_range": [
+        0,
+        270
+    ],
+    "entities": {
+        "media": [
+            {
+                "id_str": "1274503242135764993",
+                "indices": [
+                    271,
+                    294
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274503242135764993/pu/img/gx6fF81Qn6NLEKP4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274503242135764993/pu/img/gx6fF81Qn6NLEKP4.jpg",
+                "url": "https://t.co/HLF3BfGwac",
+                "display_url": "pic.twitter.com/HLF3BfGwac",
+                "expanded_url": "https://twitter.com/alferdez/status/1274503490556047361/video/1",
+                "type": "photo",
+                "original_info": {
+                    "width": 400,
+                    "height": 224
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 224,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id_str": "1274503242135764993",
+                "indices": [
+                    271,
+                    294
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274503242135764993/pu/img/gx6fF81Qn6NLEKP4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274503242135764993/pu/img/gx6fF81Qn6NLEKP4.jpg",
+                "url": "https://t.co/HLF3BfGwac",
+                "display_url": "pic.twitter.com/HLF3BfGwac",
+                "expanded_url": "https://twitter.com/alferdez/status/1274503490556047361/video/1",
+                "type": "video",
+                "original_info": {
+                    "width": 400,
+                    "height": 224
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 224,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        25,
+                        14
+                    ],
+                    "duration_millis": 93833,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1274503242135764993/pu/vid/400x224/5K2v0SbPj8oNoz5E.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1274503242135764993/pu/pl/KkAdwTEu0jIxihFs.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "media_key": "7_1274503242135764993",
+                "ext_media_availability": {
+                    "status": "available"
+                },
+                "ext_alt_text": null,
+                "ext_media_color": null,
+                "ext": {
+                    "mediaStats": {
+                        "r": {
+                            "ok": {
+                                "viewCount": "698835"
+                            }
+                        },
+                        "ttl": -1
+                    }
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user_id_str": "149991703",
+    "retweet_count": 5810,
+    "favorite_count": 28262,
+    "reply_count": 7847,
+    "quote_count": 2423,
+    "conversation_id_str": "1274503490556047361",
+    "possibly_sensitive_editable": true,
+    "lang": "es"
+}

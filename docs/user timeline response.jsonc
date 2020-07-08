@@ -1,0 +1,40 @@
+/*
+https://api.twitter.com/2/timeline/profile/1003049219131920386.json?
+include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&include_tweet_replies=true&userId=1003049219131920386&count=20&ext=mediaStats%2ChighlightedLabel&include_quote_count=true
+globalObjects/tweets/1270852032774262787
+OfeFernandez (1003049219131920386) replying to marbellati (355524812)
+*/
+
+{
+    "created_at": "Wed Jun 10 22:55:10 +0000 2020",
+    "id_str": "1270852032774262787",
+    "full_text": "@marbellati aaay gracias siempre🥰😭",
+    "display_text_range": [
+        12,
+        34
+    ],
+    "entities": {
+        "user_mentions": [
+            {
+                "screen_name": "marbellati",
+                "name": "Marina Bellati",
+                "id_str": "355524812",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id_str": "1270843482731675653",
+    "in_reply_to_user_id_str": "355524812",
+    "in_reply_to_screen_name": "marbellati",
+    "user_id_str": "1003049219131920386",
+    "retweet_count": 0,
+    "favorite_count": 37,
+    "reply_count": 5,
+    "quote_count": 0,
+    "conversation_id_str": "1270843482731675653",
+    "lang": "es"
+}

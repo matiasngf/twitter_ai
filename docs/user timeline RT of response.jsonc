@@ -1,0 +1,56 @@
+/*
+https://api.twitter.com/2/timeline/profile/3351561406.json
+globalObjects/tweets/1274139905367724033
+rechimuzziok (3351561406) timeline RT of eldestapeweb (2792557771) quoting to robdnavarro (593789869)
+Es rechimuzziok RT un tweet de eldestapeweb que esta citando a robdnavarro
+*/
+{
+    "created_at": "Sat Jun 20 00:40:00 +0000 2020",
+    "id_str": "1274139905367724033",
+    "full_text": "Este sábado a las 10AM especial de #Navarro2023 por https://t.co/hQTfoL5on6\n\nRT para difundir y que nadie se lo pierda",
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Navarro2023",
+                "indices": [
+                    35,
+                    47
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/hQTfoL5on6",
+                "expanded_url": "http://eldestaperadio.com",
+                "display_url": "eldestaperadio.com",
+                "indices": [
+                    52,
+                    75
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user_id_str": "2792557771",
+    "is_quote_status": true,
+    "quoted_status_id_str": "1274134270483849223",
+    "quoted_status_permalink": {
+        "url": "https://t.co/loHdJ2HGeY",
+        "expanded": "https://twitter.com/robdnavarro/status/1274134270483849223",
+        "display": "twitter.com/robdnavarro/st…"
+    },
+    "retweet_count": 169,
+    "favorite_count": 230,
+    "reply_count": 15,
+    "quote_count": 10,
+    "conversation_id_str": "1274139905367724033",
+    "possibly_sensitive_editable": true,
+    "lang": "es",
+    "self_thread": {
+        "id_str": "1274139905367724033"
+    }
+}

@@ -1,0 +1,1170 @@
+/*
+https://api.twitter.com/2/timeline/profile/149991703.json
+globalObjects/users
+alferdez (149991703) timeline tweet
+*/
+{
+    "67334466": {
+        "id_str": "67334466",
+        "name": "Televisión Pública",
+        "screen_name": "TV_Publica",
+        "location": "Argentina",
+        "description": "La Televisión Pública ofrece una programación basada en criterios de calidad y equilibrio entre información, formación y entretenimiento.",
+        "url": "http://t.co/vNPcQwniv7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/vNPcQwniv7",
+                        "expanded_url": "http://www.tvpublica.com.ar",
+                        "display_url": "tvpublica.com.ar",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {}
+        },
+        "followers_count": 959563,
+        "fast_followers_count": 0,
+        "normal_followers_count": 959563,
+        "friends_count": 236,
+        "listed_count": 2663,
+        "created_at": "Thu Aug 20 14:55:05 +0000 2009",
+        "favourites_count": 435,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 186659,
+        "media_count": 117253,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043886275193970688/6Yifwwqw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67334466/1590433301",
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 253,
+                        "green": 253,
+                        "blue": 252
+                    },
+                    "percentage": 36.62
+                },
+                {
+                    "rgb": {
+                        "red": 41,
+                        "green": 148,
+                        "blue": 207
+                    },
+                    "percentage": 31.29
+                },
+                {
+                    "rgb": {
+                        "red": 250,
+                        "green": 228,
+                        "blue": 181
+                    },
+                    "percentage": 19.04
+                },
+                {
+                    "rgb": {
+                        "red": 244,
+                        "green": 200,
+                        "blue": 52
+                    },
+                    "percentage": 10.65
+                },
+                {
+                    "rgb": {
+                        "red": 185,
+                        "green": 222,
+                        "blue": 239
+                    },
+                    "percentage": 0.76
+                }
+            ]
+        },
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 67,
+                        "green": 14,
+                        "blue": 101
+                    },
+                    "percentage": 55.85
+                },
+                {
+                    "rgb": {
+                        "red": 38,
+                        "green": 21,
+                        "blue": 67
+                    },
+                    "percentage": 12.99
+                },
+                {
+                    "rgb": {
+                        "red": 5,
+                        "green": 169,
+                        "blue": 224
+                    },
+                    "percentage": 7.19
+                },
+                {
+                    "rgb": {
+                        "red": 99,
+                        "green": 11,
+                        "blue": 138
+                    },
+                    "percentage": 4.51
+                },
+                {
+                    "rgb": {
+                        "red": 227,
+                        "green": 246,
+                        "blue": 251
+                    },
+                    "percentage": 2.8
+                }
+            ]
+        },
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "0084B4",
+        "pinned_tweet_ids": [
+            1262160221150969900
+        ],
+        "pinned_tweet_ids_str": [
+            "1262160221150969856"
+        ],
+        "has_custom_timelines": true,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "smb",
+            "media_studio"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "149991703": {
+        "id_str": "149991703",
+        "name": "Alberto Fernández",
+        "screen_name": "alferdez",
+        "location": "Buenos Aires",
+        "description": "Abogado. Profesor de Derecho Penal (UBA). Hincha de Argentinos Juniors. Presidente de la Nación Argentina.",
+        "url": "https://t.co/1FuikS9nVQ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1FuikS9nVQ",
+                        "expanded_url": "https://alferdez.com.ar/",
+                        "display_url": "alferdez.com.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {}
+        },
+        "followers_count": 1780754,
+        "fast_followers_count": 0,
+        "normal_followers_count": 1780754,
+        "friends_count": 7307,
+        "listed_count": 1371,
+        "created_at": "Sun May 30 19:38:40 +0000 2010",
+        "favourites_count": 6706,
+        "verified": true,
+        "statuses_count": 26371,
+        "media_count": 1667,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192149786503327744/l232oveZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149991703/1573065634",
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 19,
+                        "green": 35,
+                        "blue": 52
+                    },
+                    "percentage": 33.8
+                },
+                {
+                    "rgb": {
+                        "red": 181,
+                        "green": 186,
+                        "blue": 188
+                    },
+                    "percentage": 20.09
+                },
+                {
+                    "rgb": {
+                        "red": 189,
+                        "green": 134,
+                        "blue": 136
+                    },
+                    "percentage": 15.67
+                },
+                {
+                    "rgb": {
+                        "red": 33,
+                        "green": 60,
+                        "blue": 94
+                    },
+                    "percentage": 8.63
+                },
+                {
+                    "rgb": {
+                        "red": 100,
+                        "green": 71,
+                        "blue": 68
+                    },
+                    "percentage": 8.13
+                }
+            ]
+        },
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 174,
+                        "green": 198,
+                        "blue": 223
+                    },
+                    "percentage": 56.58
+                },
+                {
+                    "rgb": {
+                        "red": 130,
+                        "green": 175,
+                        "blue": 221
+                    },
+                    "percentage": 30.43
+                },
+                {
+                    "rgb": {
+                        "red": 114,
+                        "green": 133,
+                        "blue": 157
+                    },
+                    "percentage": 7.96
+                },
+                {
+                    "rgb": {
+                        "red": 190,
+                        "green": 167,
+                        "blue": 151
+                    },
+                    "percentage": 3.65
+                },
+                {
+                    "rgb": {
+                        "red": 91,
+                        "green": 81,
+                        "blue": 79
+                    },
+                    "percentage": 0.58
+                }
+            ]
+        },
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "00A8E4",
+        "has_extended_profile": true,
+        "pinned_tweet_ids": [
+            1274353475346890800
+        ],
+        "pinned_tweet_ids_str": [
+            "1274353475346890752"
+        ],
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "smb"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "176442061": {
+        "id_str": "176442061",
+        "name": "ari lijalad",
+        "screen_name": "arilijalad",
+        "location": "",
+        "description": "Periodista y Politólogo. A estrenar",
+        "url": "https://t.co/MGSELimY31",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/MGSELimY31",
+                        "expanded_url": "https://www.instagram.com/ari.lijalad/",
+                        "display_url": "instagram.com/ari.lijalad/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {}
+        },
+        "followers_count": 112056,
+        "fast_followers_count": 0,
+        "normal_followers_count": 112056,
+        "friends_count": 3066,
+        "listed_count": 322,
+        "created_at": "Mon Aug 09 15:07:28 +0000 2010",
+        "favourites_count": 28456,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 71783,
+        "media_count": 8606,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/450069188187418625/ciJqJdEx_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/176442061/1398249469",
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions_media_color": null,
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions_media_color": null,
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "B30000",
+        "has_extended_profile": true,
+        "pinned_tweet_ids": [
+            888202435394711600
+        ],
+        "pinned_tweet_ids_str": [
+            "888202435394711553"
+        ],
+        "has_custom_timelines": true,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "267960594": {
+        "id_str": "267960594",
+        "name": "Cristina Alvarez Rodríguez",
+        "screen_name": "CrisAlvarezRod",
+        "location": "Buenos Aires, Argentina",
+        "description": "Arquitecta. Peronista. Diputada Nacional. Presidenta ad honorem del @MuseoEvita",
+        "url": "https://t.co/fxMY6cCYXr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/fxMY6cCYXr",
+                        "expanded_url": "https://www.facebook.com/CrisAlvarezRod/",
+                        "display_url": "facebook.com/CrisAlvarezRod/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {}
+        },
+        "followers_count": 66866,
+        "fast_followers_count": 0,
+        "normal_followers_count": 66866,
+        "friends_count": 1925,
+        "listed_count": 251,
+        "created_at": "Thu Mar 17 22:06:18 +0000 2011",
+        "favourites_count": 24187,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 12610,
+        "media_count": 5140,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260292659857547264/bukoLO-Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267960594/1589312161",
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 229,
+                        "green": 221,
+                        "blue": 221
+                    },
+                    "percentage": 50.14
+                },
+                {
+                    "rgb": {
+                        "red": 43,
+                        "green": 47,
+                        "blue": 46
+                    },
+                    "percentage": 25.27
+                },
+                {
+                    "rgb": {
+                        "red": 214,
+                        "green": 157,
+                        "blue": 145
+                    },
+                    "percentage": 8.15
+                },
+                {
+                    "rgb": {
+                        "red": 181,
+                        "green": 196,
+                        "blue": 212
+                    },
+                    "percentage": 3.09
+                },
+                {
+                    "rgb": {
+                        "red": 7,
+                        "green": 154,
+                        "blue": 88
+                    },
+                    "percentage": 1.21
+                }
+            ]
+        },
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 222,
+                        "green": 227,
+                        "blue": 241
+                    },
+                    "percentage": 29.78
+                },
+                {
+                    "rgb": {
+                        "red": 205,
+                        "green": 163,
+                        "blue": 127
+                    },
+                    "percentage": 24.78
+                },
+                {
+                    "rgb": {
+                        "red": 111,
+                        "green": 80,
+                        "blue": 47
+                    },
+                    "percentage": 16.59
+                },
+                {
+                    "rgb": {
+                        "red": 137,
+                        "green": 194,
+                        "blue": 232
+                    },
+                    "percentage": 8.28
+                },
+                {
+                    "rgb": {
+                        "red": 51,
+                        "green": 50,
+                        "blue": 46
+                    },
+                    "percentage": 6.65
+                }
+            ]
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "0084B4",
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": true,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "reseller"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "332918283": {
+        "id_str": "332918283",
+        "name": "Claudio R. Lozano",
+        "screen_name": "Lozano_Claudio",
+        "location": "Entre Ríos 905, CABA",
+        "description": "Dirigente Nac. de Unidad Popular, Coord. del Instituto de Pensamiento y Políticas Públicas y Director del Banco Nación. Te invito a conocer nuestro trabajo.",
+        "url": "https://t.co/WChAQHjmhP",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/WChAQHjmhP",
+                        "expanded_url": "http://www.unidadpopular.org.ar",
+                        "display_url": "unidadpopular.org.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {}
+        },
+        "followers_count": 36401,
+        "fast_followers_count": 0,
+        "normal_followers_count": 36401,
+        "friends_count": 321,
+        "listed_count": 319,
+        "created_at": "Sun Jul 10 17:18:08 +0000 2011",
+        "favourites_count": 117,
+        "geo_enabled": true,
+        "statuses_count": 6274,
+        "media_count": 753,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161630838813016066/juFpxoFp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/332918283/1558115543",
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 234,
+                        "green": 224,
+                        "blue": 213
+                    },
+                    "percentage": 31.85
+                },
+                {
+                    "rgb": {
+                        "red": 228,
+                        "green": 176,
+                        "blue": 133
+                    },
+                    "percentage": 28.53
+                },
+                {
+                    "rgb": {
+                        "red": 82,
+                        "green": 56,
+                        "blue": 43
+                    },
+                    "percentage": 28.38
+                },
+                {
+                    "rgb": {
+                        "red": 139,
+                        "green": 88,
+                        "blue": 47
+                    },
+                    "percentage": 2.31
+                },
+                {
+                    "rgb": {
+                        "red": 202,
+                        "green": 140,
+                        "blue": 64
+                    },
+                    "percentage": 2.26
+                }
+            ]
+        },
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 199,
+                        "green": 203,
+                        "blue": 203
+                    },
+                    "percentage": 43.88
+                },
+                {
+                    "rgb": {
+                        "red": 30,
+                        "green": 30,
+                        "blue": 35
+                    },
+                    "percentage": 38.17
+                },
+                {
+                    "rgb": {
+                        "red": 165,
+                        "green": 117,
+                        "blue": 92
+                    },
+                    "percentage": 6.16
+                },
+                {
+                    "rgb": {
+                        "red": 78,
+                        "green": 122,
+                        "blue": 98
+                    },
+                    "percentage": 1.91
+                },
+                {
+                    "rgb": {
+                        "red": 137,
+                        "green": 152,
+                        "blue": 75
+                    },
+                    "percentage": 1.84
+                }
+            ]
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "E81C4F",
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "smb"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "366713453": {
+        "id_str": "366713453",
+        "name": "El Destape Radio",
+        "screen_name": "eldestape_radio",
+        "location": "Argentina",
+        "description": "Gracias a vos seguimos creciendo. Sumate ACÁ 👉 https://t.co/6RIVNJRO7f\n\n🗣️📱1125809360 | FM107.3 AM1050 📻",
+        "url": "https://t.co/gOpqSND00L",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gOpqSND00L",
+                        "expanded_url": "http://eldestaperadio.com",
+                        "display_url": "eldestaperadio.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6RIVNJRO7f",
+                        "expanded_url": "http://eldestapeweb.com/suscripcion",
+                        "display_url": "eldestapeweb.com/suscripcion",
+                        "indices": [
+                            47,
+                            70
+                        ]
+                    }
+                ]
+            }
+        },
+        "followers_count": 777619,
+        "fast_followers_count": 0,
+        "normal_followers_count": 777619,
+        "friends_count": 549,
+        "listed_count": 875,
+        "created_at": "Fri Sep 02 17:44:01 +0000 2011",
+        "favourites_count": 121897,
+        "geo_enabled": true,
+        "statuses_count": 31582,
+        "media_count": 21864,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257148428288737280/hxDl7cSJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366713453/1588562237",
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0
+                    },
+                    "percentage": 91.76
+                },
+                {
+                    "rgb": {
+                        "red": 205,
+                        "green": 205,
+                        "blue": 194
+                    },
+                    "percentage": 7.06
+                }
+            ]
+        },
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 0,
+                        "green": 10,
+                        "blue": 16
+                    },
+                    "percentage": 87.99
+                },
+                {
+                    "rgb": {
+                        "red": 0,
+                        "green": 76,
+                        "blue": 115
+                    },
+                    "percentage": 7.32
+                },
+                {
+                    "rgb": {
+                        "red": 152,
+                        "green": 154,
+                        "blue": 152
+                    },
+                    "percentage": 2.56
+                },
+                {
+                    "rgb": {
+                        "red": 1,
+                        "green": 61,
+                        "blue": 53
+                    },
+                    "percentage": 1.24
+                },
+                {
+                    "rgb": {
+                        "red": 108,
+                        "green": 156,
+                        "blue": 180
+                    },
+                    "percentage": 0.16
+                }
+            ]
+        },
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "FF691F",
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": true,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "smb"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "593789869": {
+        "id_str": "593789869",
+        "name": "Roberto Navarro",
+        "screen_name": "robdnavarro",
+        "location": "",
+        "description": "Periodista. \nDirector de @eldestapeweb y @eldestape_radio.\nDe lunes a viernes a las 10 #Navarro2023",
+        "entities": {
+            "description": {}
+        },
+        "followers_count": 453353,
+        "fast_followers_count": 0,
+        "normal_followers_count": 453353,
+        "friends_count": 659,
+        "listed_count": 708,
+        "created_at": "Tue May 29 15:14:28 +0000 2012",
+        "favourites_count": 3086,
+        "geo_enabled": true,
+        "statuses_count": 16815,
+        "media_count": 702,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/911360604325244928/7OrFU5Ku_normal.jpg",
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 251,
+                        "green": 244,
+                        "blue": 248
+                    },
+                    "percentage": 48.35
+                },
+                {
+                    "rgb": {
+                        "red": 83,
+                        "green": 94,
+                        "blue": 130
+                    },
+                    "percentage": 29.02
+                },
+                {
+                    "rgb": {
+                        "red": 204,
+                        "green": 122,
+                        "blue": 108
+                    },
+                    "percentage": 8.72
+                },
+                {
+                    "rgb": {
+                        "red": 107,
+                        "green": 114,
+                        "blue": 124
+                    },
+                    "percentage": 4.5
+                },
+                {
+                    "rgb": {
+                        "red": 80,
+                        "green": 44,
+                        "blue": 43
+                    },
+                    "percentage": 4.14
+                }
+            ]
+        },
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "1DA1F2",
+        "default_profile": true,
+        "pinned_tweet_ids": [
+            1035280236320120800
+        ],
+        "pinned_tweet_ids_str": [
+            "1035280236320120837"
+        ],
+        "has_custom_timelines": true,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "smb"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    },
+    "748334828978839553": {
+        "id_str": "748334828978839553",
+        "name": "Alberto Fernández Prensa",
+        "screen_name": "alferdezprensa",
+        "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+        "description": "Cuenta oficial de prensa y difusión de @alferdez. Contacto: prensa@alferdez.com.ar",
+        "url": "https://t.co/gg4n55EouW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gg4n55EouW",
+                        "expanded_url": "https://alferdez.com.ar/prensa/",
+                        "display_url": "alferdez.com.ar/prensa/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {}
+        },
+        "followers_count": 253409,
+        "fast_followers_count": 0,
+        "normal_followers_count": 253409,
+        "friends_count": 1,
+        "listed_count": 124,
+        "created_at": "Thu Jun 30 01:58:21 +0000 2016",
+        "favourites_count": 1238,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 8574,
+        "media_count": 1190,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267608979502481410/CKWNaG2x_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/748334828978839553/1591056647",
+        "profile_image_extensions_alt_text": null,
+        "profile_image_extensions_media_availability": null,
+        "profile_image_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 222,
+                        "green": 222,
+                        "blue": 231
+                    },
+                    "percentage": 46.75
+                },
+                {
+                    "rgb": {
+                        "red": 49,
+                        "green": 47,
+                        "blue": 60
+                    },
+                    "percentage": 15.29
+                },
+                {
+                    "rgb": {
+                        "red": 130,
+                        "green": 165,
+                        "blue": 223
+                    },
+                    "percentage": 10.71
+                },
+                {
+                    "rgb": {
+                        "red": 55,
+                        "green": 78,
+                        "blue": 149
+                    },
+                    "percentage": 8.01
+                },
+                {
+                    "rgb": {
+                        "red": 220,
+                        "green": 193,
+                        "blue": 171
+                    },
+                    "percentage": 6.95
+                }
+            ]
+        },
+        "profile_image_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_banner_extensions_media_color": {
+            "palette": [
+                {
+                    "rgb": {
+                        "red": 39,
+                        "green": 38,
+                        "blue": 41
+                    },
+                    "percentage": 37.65
+                },
+                {
+                    "rgb": {
+                        "red": 227,
+                        "green": 203,
+                        "blue": 189
+                    },
+                    "percentage": 20.73
+                },
+                {
+                    "rgb": {
+                        "red": 69,
+                        "green": 70,
+                        "blue": 35
+                    },
+                    "percentage": 8.43
+                },
+                {
+                    "rgb": {
+                        "red": 225,
+                        "green": 177,
+                        "blue": 142
+                    },
+                    "percentage": 7.89
+                },
+                {
+                    "rgb": {
+                        "red": 125,
+                        "green": 88,
+                        "blue": 69
+                    },
+                    "percentage": 6.4
+                }
+            ]
+        },
+        "profile_banner_extensions_alt_text": null,
+        "profile_banner_extensions_media_availability": null,
+        "profile_banner_extensions": {
+            "mediaStats": {
+                "r": {
+                    "missing": null
+                },
+                "ttl": -1
+            }
+        },
+        "profile_link_color": "1D4EDC",
+        "pinned_tweet_ids": [
+            1129781920550871000
+        ],
+        "pinned_tweet_ids_str": [
+            "1129781920550871041"
+        ],
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+            "smb",
+            "media_studio"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "ext": {
+            "highlightedLabel": {
+                "r": {
+                    "ok": {}
+                },
+                "ttl": -1
+            }
+        }
+    }
+}
