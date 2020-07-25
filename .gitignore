@@ -3,3 +3,9 @@ datasets/*
 
 config/*
 !config/.gitkeep
+
+models/*
+!models/.gitkeep
+
+scripts/__pycache__/
+notebooks/.ipynb_checkpoints/
