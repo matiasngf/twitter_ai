@@ -28,7 +28,7 @@ def clean(s):
         u"\U0001F680-\U0001F6FF"  # transport & map symbols
         u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
         u"\w+"
-        u"?!¡¿@#,."
+        u"?!@#"
     "]+", flags = re.UNICODE)
     s = ' '.join(regrex_filter.findall(s))
     s = re.sub(r'[ ]+', ' ', s)
