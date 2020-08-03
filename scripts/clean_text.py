@@ -17,12 +17,9 @@ def space_emogis(s):
 
 def clean(s, filter_stopwords = False):
     s = space_emogis(s)
-    s = re.sub(r'([@#])', r' \1 ', s.lower())
     s = re.sub('\n', ' ', s)
-    s = del_repeated('?', s)
-    s = del_repeated('!', s)
-    s = del_repeated('¡', s)
-    s = del_repeated('¿', s)
+    for i in '?!@#':
+        s = del_repeated(i, s)
     s = re.sub(r'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]+\.[a-z]+\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)', 'URL', s)
     s = re.sub(r'(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?', 'URL', s)
     regrex_filter = re.compile(pattern = "["
