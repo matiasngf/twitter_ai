@@ -1,5 +1,8 @@
 import re
 from emoji import UNICODE_EMOJI
+from nltk.corpus import stopwords
+
+spanish_stop_words = stopwords.words('spanish')
 
 def del_repeated(char, s, ):
     return re.sub(rf'\{char}[{char} ]*', ' '+char+' ', s)
@@ -12,7 +15,7 @@ def space_emogis(s):
         u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
         "])", r' \1 ', s, flags=re.UNICODE)
 
-def clean(s):
+def clean(s, filter_stopwords = False):
     s = space_emogis(s)
     s = re.sub(r'([@#])', r' \1 ', s.lower())
     s = re.sub('\n', ' ', s)
@@ -30,6 +33,9 @@ def clean(s):
         u"\w+"
         u"?!@#"
     "]+", flags = re.UNICODE)
-    s = ' '.join(regrex_filter.findall(s))
+    s = regrex_filter.findall(s)
+    if(filter_stopwords):
+        s = filter(lambda x: (x not in spanish_stop_words or (x in ['si', 'no', 'sí'])), s)
+    s = ' '.join(s)
     s = re.sub(r'[ ]+', ' ', s)
     return s
