@@ -43,14 +43,17 @@ class TweetToVect():
         arr = [ self.word_model.get_vector(w) for w in tokenize(tweet) ]
         return arr
     
-    def sent_emb_to_vect(self, tweets):
-        tweets = tf.ragged.constant([np.transpose(i) for i in tweets])
-        tweets = tf.reduce_mean(tweets, axis=2).numpy()
-        return tf.constant(tweets).numpy()
+    def sent_emb_to_vect(self, tweets, return_tensor=False):
+        tweets = [tf.reduce_mean(tf.constant(np.transpose(i)), axis=1).numpy() for i in tweets]
+        tweets = tf.constant(tweets)
+        if(return_tensor):
+            return tweets
+        else:
+            return tweets.numpy()
             
-    def get_vectors(self, tweets, cleaned=False):
+    def get_vectors(self, tweets, cleaned=False, return_tensor=False):
         """Get vectors of list of tweets"""
         if(cleaned==False):
             tweets = [self.clean_string(i) for i in tweets]
         word_vectors = [self.get_word_vectors(i) for i in tweets] #list of vectors
-        return self.sent_emb_to_vect(word_vectors)
+        return self.sent_emb_to_vect(word_vectors, return_tensor)
