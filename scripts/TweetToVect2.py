@@ -50,6 +50,13 @@ class TweetToVect():
             return tweets
         else:
             return tweets.numpy()
+
+    def get_vector(self, tweet, cleaned=False, return_tensor=False):
+        """Get vectors of tweet"""
+        if(cleaned==False):
+            tweet = self.clean_string(tweet)
+        word_vectors = self.get_word_vectors(i) #tweet vector
+        return self.sent_emb_to_vect([word_vectors], return_tensor)[0]
             
     def get_vectors(self, tweets, cleaned=False, return_tensor=False):
         """Get vectors of list of tweets"""
