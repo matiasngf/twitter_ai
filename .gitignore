@@ -9,3 +9,5 @@ models/*
 
 scripts/__pycache__/
 notebooks/.ipynb_checkpoints/
+
+notebooks/Experiments/.ipynb_checkpoints/
