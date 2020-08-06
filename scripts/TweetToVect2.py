@@ -15,7 +15,7 @@ class TweetToVect():
         if((not model_path) & (not fast_text_model)):
             raise Exception('You have to pass a path or model.')
         elif(model_path):
-            model = gensim.models.fasttext.load_facebook_vectors(path)
+            model = gensim.models.fasttext.load_facebook_vectors(model_path)
         else:
             model = fast_text_model
         self.word_dim = len(model.get_vector('test'))
@@ -51,11 +51,14 @@ class TweetToVect():
         else:
             return tweets.numpy()
 
+    def get_similar_word(self, positive=None, negative=None, topn=10):
+        return self.word_model.wv.most_similar(positive, negative, topn)
+
     def get_vector(self, tweet, cleaned=False, return_tensor=False):
         """Get vectors of tweet"""
         if(cleaned==False):
             tweet = self.clean_string(tweet)
-        word_vectors = self.get_word_vectors(i) #tweet vector
+        word_vectors = self.get_word_vectors(tweet) #tweet vector
         return self.sent_emb_to_vect([word_vectors], return_tensor)[0]
             
     def get_vectors(self, tweets, cleaned=False, return_tensor=False):
